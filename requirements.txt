@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+jinja2
+python-multipart
+openai
+pydantic
+python-dotenv
+langchain
+passlib
+python-jose
+bcrypt
+langchain_community
+langchain_openai
+chromadb
+itsdangerous
